@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: se.kth.iv1350.seminar3.model.PaymentTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.048 s <<< FAILURE! - in se.kth.iv1350.seminar3.model.PaymentTest
+testGetChange  Time elapsed: 0.029 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Insufficient funds. ==> expected: <true> but was: <false>
+	at se.kth.iv1350.seminar3.model.PaymentTest.testGetChange(PaymentTest.java:49)
+
